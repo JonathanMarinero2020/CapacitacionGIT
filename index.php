@@ -1,4 +1,4 @@
-<?php echo "Hola, Max Marinero"; ?>
-<?php echo "segunda modificación"; ?>
-<?php echo "tercera modificación"; ?>
+<?php 
+echo "Hola, Max Marinero";
+?>
 /** prueba de comentario */
